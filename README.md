@@ -12,7 +12,7 @@ what is *not* included:
 assets (jpg, png)
 
 
- License
+## License
 
 (MIT)
 
