@@ -7,7 +7,7 @@ _A versatile panopoly of activity within a wide-ranging ambit of converging inte
 
 ### Usage
 
-included in this template are the core Bootstrap css/js files.
+included in this repository are the core Bootstrap css/js files.
 <br>
 in addition, custom.css and additional jQuery scripts that were used are also included.
 
