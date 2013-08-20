@@ -3,14 +3,22 @@ tvision-bootstrap
 
 ### teachingmachine.tv/ision bootstrap template
 
+_A versatile panopoly of activity within a wide-ranging ambit of converging interests and ideas; we are focused on the creative expression of an integrated future built upon new art and technology. Our projects take on a variety of forms and features._
+
+### Usage
+
 included in this template are the core Bootstrap css/js files.
 <br>
 in addition, custom.css and additional jQuery scripts that were used are also included.
 
-what is *not* included:
+![image](http://web.gavingamboa.net/wp-content/uploads/2013/03/Screen-shot-2013-08-19-at-1.26.15-PM.png)
+
+items *not* included in this repository:
 <br>
 assets (jpg, png)
 
+### Visit The Site
+http://teachingmachine.tv/ision
 
 ## License
 
