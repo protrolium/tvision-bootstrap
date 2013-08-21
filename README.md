@@ -7,13 +7,13 @@ _A versatile panopoly of activity within a wide-ranging ambit of converging inte
 
 ### Usage
 
-included in this repository are the core Bootstrap css/js files.
+Included in this repository are the core Bootstrap css/js files.
 <br>
-in addition, custom.css and additional jQuery scripts that were used are also included.
+In addition, custom.css and additional jQuery scripts that were used are also included.
 
 ![image](http://web.gavingamboa.net/wp-content/uploads/2013/03/Screen-shot-2013-08-19-at-1.26.15-PM.png)
 
-items *not* included in this repository:
+Items *not* included in this repository:
 <br>
 assets (jpg, png)
 
